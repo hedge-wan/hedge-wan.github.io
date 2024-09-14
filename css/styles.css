@@ -34,7 +34,7 @@ html {
     margin-top: 15px;
     vertical-align: top;
     font-weight: 400; /* Reduced boldness */
-    font-size: 4rem; /* Reduced font size */
+    font-size: 5.5rem;
     color: #333; /* Lighter font color */
 }
 
@@ -47,14 +47,14 @@ img {
 }
 
 .subtitle {
-    margin-top: 2.5rem;
-    font-size: 2.5rem; /* Increased font size */
-    color: #555; /* Lighter font color */
+    margin-top: 3rem;
+    font-size: 3rem; 
+    color: #484444; /* Lighter font color */
 }
 
 .summary {
     color: #212529;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
     margin: 2rem auto;
     text-align: left;
     width: 70%;
